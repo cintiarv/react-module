@@ -1,0 +1,63 @@
+*{
+    box-sizing: border-box;
+    margin:auto;
+
+}
+
+.card{
+    width: 400px;
+    height: 430px;
+    border-radius: 20px;
+    background-color: white;
+
+}
+
+.innerImg{
+    background-image: url(../assets/bg-pattern-card.svg);
+    height: 170px;
+    border-radius: 20px 20px 0px 0px;
+}
+
+.infoUser{
+    text-align: center;
+    transform: translateY(-50%);
+}
+
+.infoUser__title{
+    font-size: 10px;
+    display:inline-flex;
+    margin-bottom: 10px;
+}
+
+.name{
+    font-size: 20px;
+    margin-right: 20px;
+}
+.age{
+    font-size: 20px;
+}
+.profile__pic{
+    border-radius: 100%;
+    position: relative;
+    display: flex;
+    transform: translateY(-50%);
+    border: solid 5px white;
+}
+
+.data{
+    display: flex;
+    margin-top: 20px;
+}
+
+.amount{
+    font-weight:650;
+    font-size: 20px;
+}
+
+.amountTitle{
+    font-size: 10px;
+    text-align: center;
+}
+.hr {
+    background-color: red;
+  }

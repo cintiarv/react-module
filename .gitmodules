@@ -1,0 +1,12 @@
+[submodule "createCard-react"]
+	path = createCard-react
+	url = https://github.com/cintiarv/createCard-react
+[submodule "twitter-react"]
+	path = twitter-react
+	url = https://github.com/cintiarv/twitter-react
+[submodule "devto-react"]
+	path = devto-react
+	url = https://github.com/cintiarv/devto-react
+[submodule "my-first-app-REACT"]
+	path = my-first-app-REACT
+	url = https://github.com/cintiarv/my-first-app-REACT
